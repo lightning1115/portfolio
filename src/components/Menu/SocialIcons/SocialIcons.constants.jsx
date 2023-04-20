@@ -4,6 +4,6 @@ export const socialLinks = [
 	{ name: 'Skype', link: 'live:.cid.afa963683093058e' },
 	{ name: 'Telegram', link: 'https://t.me/bithealer' },
 	// { name: 'Github', link: 'https://github.com/srdevhub/' },
-	{ name: 'Mail', link: 'mailto: pascalschulz1019@gmail.com' },
+	{ name: 'Mail', link: 'mailto: kevinhuston1019@gmail.com' },
 	// { name: "Resume", link: cv},
 ];
